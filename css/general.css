@@ -19,7 +19,7 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 110%;
-    font-family: "ITC Esprit", Georgia, Times, Serif;
+    font-family: "Hoefler Text", Georgia, Times, Serif;
 }
 
 img {
@@ -48,7 +48,7 @@ h1 {
     margin: .5rem;
     font-size: 1.5rem;
     line-height: 2rem;
-    font-family: Interstate, "Bell Centennial", Calibri, sans-serif;  
+    font-family: "Arial Rounded MT Bold", Calibri, "Franklin Gothic Medium", sans-serif;  
 }
     
 article {
