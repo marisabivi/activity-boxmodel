@@ -68,6 +68,13 @@ p {
     margin: 0 0  1rem;
 }
 
+.notchange {
+    margin: 0rem;
+    width: 100%; 
+}
+    
+}
+
 figcaption {
     font-size: .80rem;
     margin: .1rem 0 0;
